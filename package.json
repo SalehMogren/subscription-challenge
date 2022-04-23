@@ -2,7 +2,7 @@
   "name": "subscription-chalenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://salehmogren.github.io/",
+  "homepage": "https://salehmogren.github.io/subscription-challenge",
   "dependencies": {
     "@headlessui/react": "^1.5.0",
     "@heroicons/react": "^1.0.6",
