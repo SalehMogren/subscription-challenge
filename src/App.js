@@ -13,7 +13,7 @@ function App() {
   return (
     <Background>
       {/* Container */}
-      <div className='container p-8 md:flex md:justify-around gap-2'>
+      <div className='container flex flex-col md:flex-row md:justify-around items-center md:items-stretch'>
         <PlanCard />
         <PaymentCard />
       </div>
